@@ -17,3 +17,8 @@ git commit -m "second commit"
 git push -u origin master
 ```
 
+## Switch to a new branch
+```
+git branch NEW_BRANCH
+git checkout NEW_BRANCH
+```
