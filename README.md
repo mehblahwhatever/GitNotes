@@ -9,3 +9,11 @@ git commit -m "first commit"
 git remote add origin https://github.com/mehblahwhatever/GitNotes.git
 git push -u origin master
 ```
+## Make a commit
+```
+echo NEW_FILE
+git add NEW_FILE
+git commit -m "second commit"
+git push -u origin master
+```
+
