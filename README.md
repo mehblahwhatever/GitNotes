@@ -27,3 +27,10 @@ git checkout NEW_BRANCH
 ```
 git push -u origin NEW_BRANCH
 ```
+
+## Merge branch into master
+```
+git checkout master
+git merge NEW_BRANCH
+git push -u origin master
+```
