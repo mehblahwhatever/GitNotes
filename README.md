@@ -34,3 +34,8 @@ git checkout master
 git merge NEW_BRANCH
 git push -u origin master
 ```
+
+## Download copy of existing project (creates sub-folder)
+```
+git clone https://github.com/mehblahwhatever/GitNotes.git
+```
