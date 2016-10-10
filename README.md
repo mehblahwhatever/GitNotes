@@ -1,4 +1,4 @@
-# GitNotes 
+# GitNotes
 
 ## Set up project
 ```
