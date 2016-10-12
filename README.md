@@ -21,7 +21,7 @@ git push -u origin master
 ```
 git branch NEW_BRANCH
 git checkout NEW_BRANCH
-```
+``` 
  
 ## Push a new branch
 ```
