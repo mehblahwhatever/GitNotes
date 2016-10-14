@@ -23,7 +23,7 @@ git branch NEW_BRANCH
 git checkout NEW_BRANCH
 ``` 
  
-## Push a new branch
+## Push a new branch 
 ```
 git push -u origin NEW_BRANCH
 ```
