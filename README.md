@@ -14,7 +14,7 @@ git push -u origin master
 echo NEW_FILE
 git add NEW_FILE
 git commit -m "second commit"
-git push -u origin master
+git push -u origin master 
 ```
 
 ## Switch to a new branch
